@@ -1,1 +1,5 @@
 bonjour 
+<?php
+
+echo "salut" ;
+?>
