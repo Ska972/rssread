@@ -11,4 +11,7 @@ concepteur developpeur applications
 
 <?php
 // préparation de commentaires
+
+
+echo 'toto' ;
 ?>
